@@ -1,0 +1,2 @@
+# myBaseScrapy
+scrapy+randomUA+randomProxy
